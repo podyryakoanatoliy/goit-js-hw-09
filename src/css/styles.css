@@ -132,3 +132,14 @@ img {
 .feedback-form button:focus {
   background: #6c8cff;
 }
+
+.links a {
+  font-size: 20px;
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  color: red;
+  border: solid 2px #4e75ff;
+  margin-bottom: 40px;
+  width: 150px;
+}
